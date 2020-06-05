@@ -1,2 +1,2 @@
 # formulashaskell
-Ejercicios con funciones básiscas de Haskell sacados de ka página http://aprendehaskell.es/
+Ejercicios con funciones básiscas de Haskell sacados de la página http://aprendehaskell.es/
